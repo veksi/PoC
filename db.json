@@ -1,0 +1,80 @@
+{
+  "screens": [
+    { 
+      "id": 1,
+      "title": "Home",
+        "type": "defaultTemplate",
+        "content": {
+          "logo": "https://picsum.photos/200/300",
+          "specific": {
+            "type": "search",
+            "text": "Wat wil je doen?"
+          },
+          "main_card": {
+            "title": "Het regent, het regent. En wij kijken tv",
+            "tag": "20% kortig bij Pathe Thuis",
+            "background_image": "https://picsum.photos/id/804/1200",
+            "call_to_action": "Bekijk"
+          },
+          "categories": [
+            {
+              "id": "category_1",
+              "heading": "Ontdek alles",
+              "cards": [
+                {
+                  "id": "card_1",
+                  "title": "Belle & Hat Beest, de musical",
+                  "outbound_link": "#",
+                  "background_image": "https://picsum.photos/400/400"
+                },
+                {
+                  "id": "card_2",
+                  "title": "Kastel huis Bergh",
+                  "outbound_link": "#",
+                  "background_image": "https://picsum.photos/400/400"
+                }
+              ]
+            }
+          ]
+        }
+    },
+    { 
+      "id": 2,
+      "title": "Promotion",
+        "type": "defaultTemplate",
+        "content": {
+          "logo": "https://picsum.photos/200/300",
+          "specific": {
+            "type": "search",
+            "text": "Wat wil je doen?"
+          },
+          "main_card": {
+            "title": "Het regent, het regent. En wij kijken tv",
+            "tag": "20% kortig bij Pathe Thuis",
+            "background_image": "https://picsum.photos/1200",
+            "call_to_action": "Bekijk"
+          },
+          "categories": [
+            {
+              "id": "category_1",
+              "heading": "Ontdek alles",
+              "cards": [
+                {
+                  "id": "card_1",
+                  "title": "Belle & Hat Beest, de musical",
+                  "outbound_link": "#",
+                  "background_image": "https://picsum.photos/400/400"
+                },
+                {
+                  "id": "card_2",
+                  "title": "Kastel huis Bergh",
+                  "outbound_link": "#",
+                  "background_image": "https://picsum.photos/400/400"
+                }
+              ]
+            }
+          ]
+        }
+    }
+  ]
+}
